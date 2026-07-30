@@ -3,7 +3,7 @@
 ## Zweck
 Dieser TMP‑Raum ist Teil der 16‑TMP‑Matrix des iki1uc‑Universums.
 Er dient als adressierbarer Speicherraum für HDF‑Strukturen, Pulse‑Daten,
-TMP‑Pipelines und Omega‑Verbindungen. 
+TMP‑Pipelines und Omega‑Verbindungen.
 
 ## Eigenschaften
 - Eigenständiger TMP‑Raum
